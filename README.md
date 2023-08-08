@@ -7,7 +7,7 @@ A Python script, made with the YouTube API, designed to extract image informatio
 ## Prerequisites
 
 - Python 3
--[YouTube Data API](https://developers.google.com/youtube/v3)
+- [YouTube Data API](https://developers.google.com/youtube/v3)
 
 ## Implementation
 
